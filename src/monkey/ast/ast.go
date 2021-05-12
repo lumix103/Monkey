@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"strings"
 
-	"../token"
+	"github.com/lumix103/Monkey/src/monkey/token"
 )
 
 type Node interface {

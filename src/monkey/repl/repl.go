@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"io"
 
-	"../compiler"
-	"../lexer"
-	"../parser"
-	"../vm"
+	"github.com/lumix103/Monkey/src/monkey/compiler"
+	"github.com/lumix103/Monkey/src/monkey/lexer"
+	"github.com/lumix103/Monkey/src/monkey/parser"
+	"github.com/lumix103/Monkey/src/monkey/vm"
 )
 
 const PROMPT = ">> "

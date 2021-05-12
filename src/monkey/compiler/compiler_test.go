@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"testing"
 
-	"../ast"
-	"../code"
-	"../lexer"
-	"../object"
-	"../parser"
+	"github.com/lumix103/Monkey/src/monkey/ast"
+	"github.com/lumix103/Monkey/src/monkey/code"
+	"github.com/lumix103/Monkey/src/monkey/lexer"
+	"github.com/lumix103/Monkey/src/monkey/object"
+	"github.com/lumix103/Monkey/src/monkey/parser"
 )
 
 type compilerTestCase struct {

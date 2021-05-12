@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"../ast"
-	"../lexer"
-	"../token"
+	"github.com/lumix103/Monkey/src/monkey/ast"
+	"github.com/lumix103/Monkey/src/monkey/lexer"
+	"github.com/lumix103/Monkey/src/monkey/token"
 )
 
 const (

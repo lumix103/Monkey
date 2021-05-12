@@ -6,7 +6,7 @@ import (
 	"hash/fnv"
 	"strings"
 
-	"../ast"
+	"github.com/lumix103/Monkey/src/monkey/ast"
 )
 
 type ObjectType string

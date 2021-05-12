@@ -3,9 +3,9 @@ package vm
 import (
 	"fmt"
 
-	"../code"
-	"../compiler"
-	"../object"
+	"github.com/lumix103/Monkey/src/monkey/code"
+	"github.com/lumix103/Monkey/src/monkey/compiler"
+	"github.com/lumix103/Monkey/src/monkey/object"
 )
 
 const StackSize = 2048

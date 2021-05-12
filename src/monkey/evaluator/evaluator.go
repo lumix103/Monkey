@@ -3,8 +3,8 @@ package evaluator
 import (
 	"fmt"
 
-	"../ast"
-	"../object"
+	"github.com/lumix103/Monkey/src/monkey/ast"
+	"github.com/lumix103/Monkey/src/monkey/object"
 )
 
 var (

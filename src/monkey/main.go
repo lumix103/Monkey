@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/user"
 
-	"./repl"
+	"github.com/lumix103/Monkey/src/monkey/repl"
 )
 
 func main() {

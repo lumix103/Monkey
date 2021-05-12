@@ -3,9 +3,9 @@ package compiler
 import (
 	"fmt"
 
-	"../ast"
-	"../code"
-	"../object"
+	"github.com/lumix103/Monkey/src/monkey/ast"
+	"github.com/lumix103/Monkey/src/monkey/code"
+	"github.com/lumix103/Monkey/src/monkey/object"
 )
 
 type Compiler struct {
